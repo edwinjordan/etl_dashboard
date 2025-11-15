@@ -40,7 +40,19 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Running the Dashboard
+### Quick Start
+
+**For Linux/Mac:**
+```bash
+./run.sh
+```
+
+**For Windows:**
+```bash
+run.bat
+```
+
+### Manual Start
 
 Start the Streamlit dashboard:
 ```bash
